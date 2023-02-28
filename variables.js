@@ -4,3 +4,6 @@ var hobby = "surfing"
 var age = 29
 var brothers = 2
 var sisters = 1
+var yes = true
+var no = false
+var green = true
